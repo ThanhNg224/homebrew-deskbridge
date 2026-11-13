@@ -7,7 +7,7 @@ cask "deskbridge" do
   desc "Control an Android phone with a Mac mouse and keyboard"
   homepage "https://github.com/ThanhNg224/DeskBridge"
 
-  depends_on arch: :arm64, macos: ">= :sonoma"
+  depends_on arch: :arm64, macos: :sonoma
 
   app "DeskBridge.app"
 end
