@@ -1,6 +1,6 @@
 cask "deskbridge" do
-  version "1.2.0"
-  sha256 "59348c8be85297f7c409fd3e2b2b43b4977386906267d0af75c1f64c5d4dcaf1"
+  version "1.2.1"
+  sha256 "e38c70b47f61d3116818dc60d7df241637216ee7d9fec0bfafdc26dfa24fad4c"
 
   url "https://github.com/ThanhNg224/DeskBridge/releases/download/v#{version}/DeskBridge.zip"
   name "DeskBridge"
